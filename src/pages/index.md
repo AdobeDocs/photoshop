@@ -117,6 +117,7 @@ Build powerful, low-level integrations using the C++ based Photoshop Plug-in and
 
 With so many choices, it can be a little hard to decide.
 <br /><br />
+<div class="spectrum spectrum--light spectrum--medium">
 <center>
 <table>
     <thead>
@@ -221,6 +222,7 @@ With so many choices, it can be a little hard to decide.
     </tbody>
 </table>
 </center>
+</div>
 <br /><br />
 <br /><br />
 <TextBlock slots="heading, text, buttons" width="100%" theme="dark" isCentered />
